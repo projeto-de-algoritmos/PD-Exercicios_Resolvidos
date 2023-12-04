@@ -14,6 +14,9 @@ Os exercicios resolvidos neste projeto foram escolhidos pensando em abranger tod
 
 ## Screenshots
 
+![exercicio1](assets/exercicio1.png)
+![exercicio2](assets/exercicio2.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 O único requisito para executar os scripts é ter o python3.
