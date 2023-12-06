@@ -16,6 +16,7 @@ Os exercicios resolvidos neste projeto foram escolhidos pensando em abranger tod
 
 ![exercicio1](assets/exercicio1.png)
 ![exercicio2](assets/exercicio2.png)
+![exercicio3](assets/exercicio3.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
